@@ -47,7 +47,7 @@ export default function VideoPage() {
         const script = document.createElement("script")
         script.type = "text/javascript"
         script.src =
-          "https://scripts.converteai.net/afe361de-d52c-4970-970c-977eb531f274/players/68495a0427101d67f14bb5d5/v4/player.js"
+          "https://scripts.converteai.net/afe361de-d52c-4970-970c-977eb531f274/players/682e420c1fb883b3e639b6e5/v4/player.js"
         script.async = true
 
         script.onload = () => {
@@ -143,7 +143,7 @@ export default function VideoPage() {
                 )}
 
                 <vturb-smartplayer
-                  id="vid-68495a0427101d67f14bb5d5"
+                  id="vid-682e420c1fb883b3e639b6e5"
                   style={{
                     display: "block",
                     margin: "0 auto",
